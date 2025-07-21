@@ -18,7 +18,7 @@ A Django REST API for detecting skin diseases in cats using image uploads and a 
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/sajeell/cat-skin-disease-detector
    cd cat-skin-disease-detector
    ```
 

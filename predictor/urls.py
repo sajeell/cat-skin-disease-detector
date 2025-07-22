@@ -4,5 +4,5 @@ from .views import *
 name = "predictor"
 
 urlpatterns = [
-    path("predict", PredictSkinDisease.as_view(), name="predict_skin_disease"),
+    path("cat/predict", PredictSkinDisease.as_view(), name="predict_skin_disease"),
 ]
